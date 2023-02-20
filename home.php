@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
 <?php
 // home.php - Home Page 
 // Written by:  Prof. Kaplan, November 2021
@@ -10,3 +17,7 @@
 		  <p>Everyone can access this page, LOGON not required";
 	include('footer.php');
 ?>
+
+
+</body>
+</html>
