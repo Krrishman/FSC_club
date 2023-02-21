@@ -3,6 +3,12 @@
 <head>
 <title>Page Title</title>
 </head>
+<?
+$name = "GeeksforGeeks";
+echo "Welcome to {$name}";
+	echo "<p>This is the Home (LANDING) Page
+		  <p>Everyone can access this page, LOGON not required";
+		  ?>
 <body>
 
 <?php
