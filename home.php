@@ -3,7 +3,7 @@
 <head>
 <title>Page Title</title>
 </head>
-<?
+<?php
 $name = "GeeksforGeeks";
 echo "Welcome to {$name}";
 	echo "<p>This is the Home (LANDING) Page

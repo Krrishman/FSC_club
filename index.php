@@ -13,8 +13,7 @@
 	$name = "GeeksforGeeks";
 echo "Welcome to {$name}";
 	echo "<p>This is the Home (LANDING) Page
-		  <p>Everyone can access this page, LOGON not required";
-	echo "<p>This is the Home (LANDING) Page
+		<p>index php
 		  <p>Everyone can access this page, LOGON not required";
 	include('footer.php');
 ?>
